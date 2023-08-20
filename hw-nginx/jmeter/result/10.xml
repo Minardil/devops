@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="18" it="0" lt="18" ct="1" ts="1692551998888" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="462" sby="131" ng="1" na="3" hn="KBogdanov">
+  <responseData class="java.lang.String">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+    &lt;meta charset=&quot;UTF-8&quot;&gt;
+    &lt;title&gt;Hello! This is my web page on NGINX, Server 1!&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;h1&gt; Hello! This is my web page on NGINX, Server 1! &lt;/h1&gt;
+&lt;/body&gt;
+&lt;/html&gt;</responseData>
+  <java.net.URL>http://balancer.nginx.localhost:8080/</java.net.URL>
+</httpSample>
+<httpSample t="9" it="0" lt="9" ct="0" ts="1692551998906" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="462" sby="131" ng="1" na="3" hn="KBogdanov">
+  <responseData class="java.lang.String">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+    &lt;meta charset=&quot;UTF-8&quot;&gt;
+    &lt;title&gt;Hello! This is my web page on NGINX, Server 1!&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;h1&gt; Hello! This is my web page on NGINX, Server 1! &lt;/h1&gt;
+&lt;/body&gt;
+&lt;/html&gt;</responseData>
+  <java.net.URL>http://balancer.nginx.localhost:8080/</java.net.URL>
+</httpSample>
+<httpSample t="8" it="0" lt="8" ct="0" ts="1692551998915" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="462" sby="131" ng="1" na="3" hn="KBogdanov">
+  <responseData class="java.lang.String">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+    &lt;meta charset=&quot;UTF-8&quot;&gt;
+    &lt;title&gt;Hello! This is my web page on NGINX, Server 1!&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;h1&gt; Hello! This is my web page on NGINX, Server 1! &lt;/h1&gt;
+&lt;/body&gt;
+&lt;/html&gt;</responseData>
+  <java.net.URL>http://balancer.nginx.localhost:8080/</java.net.URL>
+</httpSample>
+<httpSample t="7" it="0" lt="7" ct="0" ts="1692551998923" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="462" sby="131" ng="1" na="3" hn="KBogdanov">
+  <responseData class="java.lang.String">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+    &lt;meta charset=&quot;UTF-8&quot;&gt;
+    &lt;title&gt;Hello! This is my web page on NGINX, Server 1!&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;h1&gt; Hello! This is my web page on NGINX, Server 1! &lt;/h1&gt;
+&lt;/body&gt;
+&lt;/html&gt;</responseData>
+  <java.net.URL>http://balancer.nginx.localhost:8080/</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1692551998931" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="462" sby="131" ng="1" na="3" hn="KBogdanov">
+  <responseData class="java.lang.String">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+    &lt;meta charset=&quot;UTF-8&quot;&gt;
+    &lt;title&gt;Hello! This is my web page on NGINX, Server 1!&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;h1&gt; Hello! This is my web page on NGINX, Server 1! &lt;/h1&gt;
+&lt;/body&gt;
+&lt;/html&gt;</responseData>
+  <java.net.URL>http://balancer.nginx.localhost:8080/</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1692551998937" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="462" sby="131" ng="1" na="3" hn="KBogdanov">
+  <responseData class="java.lang.String">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+    &lt;meta charset=&quot;UTF-8&quot;&gt;
+    &lt;title&gt;Hello! This is my web page on NGINX, Server 2!&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;h1&gt; Hello! This is my web page on NGINX, Server 2! &lt;/h1&gt;
+&lt;/body&gt;
+&lt;/html&gt;</responseData>
+  <java.net.URL>http://balancer.nginx.localhost:8080/</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="0" ts="1692551998943" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="462" sby="131" ng="1" na="3" hn="KBogdanov">
+  <responseData class="java.lang.String">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+    &lt;meta charset=&quot;UTF-8&quot;&gt;
+    &lt;title&gt;Hello! This is my web page on NGINX, Server 1!&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;h1&gt; Hello! This is my web page on NGINX, Server 1! &lt;/h1&gt;
+&lt;/body&gt;
+&lt;/html&gt;</responseData>
+  <java.net.URL>http://balancer.nginx.localhost:8080/</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1692551998949" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="462" sby="131" ng="1" na="3" hn="KBogdanov">
+  <responseData class="java.lang.String">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+    &lt;meta charset=&quot;UTF-8&quot;&gt;
+    &lt;title&gt;Hello! This is my web page on NGINX, Server 1!&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;h1&gt; Hello! This is my web page on NGINX, Server 1! &lt;/h1&gt;
+&lt;/body&gt;
+&lt;/html&gt;</responseData>
+  <java.net.URL>http://balancer.nginx.localhost:8080/</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1692551998954" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="462" sby="131" ng="1" na="3" hn="KBogdanov">
+  <responseData class="java.lang.String">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+    &lt;meta charset=&quot;UTF-8&quot;&gt;
+    &lt;title&gt;Hello! This is my web page on NGINX, Server 1!&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;h1&gt; Hello! This is my web page on NGINX, Server 1! &lt;/h1&gt;
+&lt;/body&gt;
+&lt;/html&gt;</responseData>
+  <java.net.URL>http://balancer.nginx.localhost:8080/</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1692551998959" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="462" sby="131" ng="1" na="3" hn="KBogdanov">
+  <responseData class="java.lang.String">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+    &lt;meta charset=&quot;UTF-8&quot;&gt;
+    &lt;title&gt;Hello! This is my web page on NGINX, Server 1!&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;h1&gt; Hello! This is my web page on NGINX, Server 1! &lt;/h1&gt;
+&lt;/body&gt;
+&lt;/html&gt;</responseData>
+  <java.net.URL>http://balancer.nginx.localhost:8080/</java.net.URL>
+</httpSample>
+
+</testResults>

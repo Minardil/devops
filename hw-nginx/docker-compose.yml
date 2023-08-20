@@ -1,0 +1,28 @@
+services:
+  balancer:
+    image: nginx:alpine
+    restart: always
+    volumes:
+      - ./balancer/conf/nginx.conf:/etc/nginx/nginx.conf
+  proxy:
+    image: nginx:alpine
+    restart: always
+    ports:
+      - "8080:80"
+    volumes:
+      - ./proxy/conf/nginx.conf:/etc/nginx/nginx.conf
+
+
+  host-1:
+    image: nginx:alpine
+    restart: always
+    volumes:
+      - ./host1/www:/var/www/localhost
+      - ./host1/conf/nginx.conf:/etc/nginx/nginx.conf
+
+  host-2:
+    image: nginx:alpine
+    restart: always
+    volumes:
+      - ./host2/www:/var/www/localhost
+      - ./host2/conf/nginx.conf:/etc/nginx/nginx.conf
